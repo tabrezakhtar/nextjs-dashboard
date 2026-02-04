@@ -1,4 +1,4 @@
-## Next.js App Router Course - Completed
+## Next.js Dashboard - Completed
 
 I have completed the Next.js Dashboard tutorial. You can view the deployed project here:
 
